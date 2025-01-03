@@ -1,6 +1,6 @@
-# Sistema de Caixa de Supermercado
+# Sistema de PDV
 
-Bem-vindo ao **Sistema de Caixa de Supermercado**, um programa em Python que simula as funcionalidades básicas de um caixa de supermercado. Este sistema foi projetado para facilitar o controle de vendas, registrar compras, e emitir uma nota fiscal detalhada.
+Bem-vindo ao **Sistema PDV**, um programa em Python que simula as funcionalidades básicas de um caixa operador. Este sistema foi projetado para facilitar o controle de vendas, registrar compras, e emitir uma nota fiscal detalhada.
 
 ## Funcionalidades Principais
 
